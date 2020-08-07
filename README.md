@@ -10,7 +10,7 @@ I'm Himanshu Tripathi Machine Learning || Data Science || Deep Learning || Andro
 ![](https://komarev.com/ghpvc/?username=iamhimanshu0&color=brightgreen&style=flat)
 
 - ⚡️ Technologies I work with: PYTHON, DATA SCIENCE, DEEP LEAERNING, MACHINE LEARNING, C++, NLP, SPACY, JAVASCRIPT, DJANGO, FLASK, FLUTTER, ANDROID STUDIO, TENSORFLOW, SKLEARN, PANDAS, ETC..
-- 👨‍💻 All of my projects are available 👉  [here](https://github.com/iamhimanshu?tab=repositories)
+- 👨‍💻 All of my projects are available 👉  [here](https://github.com/iamhimanshu0?tab=repositories)
 - 🙌 Check out My YouTube videos 👉 [here](https://www.youtube.com/c/himanshutripathi)
 - 👯 Looking for an internship or opportunity.
 
