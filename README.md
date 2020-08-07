@@ -24,7 +24,7 @@ I open-source almost everything I can, and I try to reply to everyone needing he
 
 However, if you are using my project and happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
 
-Giving proper credit when you use any of my Repo on your readme, linking back to it :D
+Giving proper credit when you use any of my Repo, linking back to it :D
 Starring and sharing the project 🚀
 
 Thanks! ❤️
