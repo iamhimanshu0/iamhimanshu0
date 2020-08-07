@@ -14,7 +14,7 @@ I'm Himanshu Tripathi Machine Learning || Data Science || Deep Learning || Andro
 - 🙌 Check out My YouTube videos 👉 [here](https://www.youtube.com/c/himanshutripathi)
 - 👯 Looking for an internship or opportunity.
 
-### My GitHub Top Languages 
+### My GitHub Status 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhimanshu0) ![Github stats](https://github-readme-stats.vercel.app/api?username=iamhimanshu0&show_icons=true)
 
 ### 💖 ### Support my projects <br>
