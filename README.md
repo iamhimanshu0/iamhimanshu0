@@ -19,13 +19,14 @@ I'm Himanshu Tripathi Machine Learning || Data Science || Deep Learning || Andro
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=iamhimanshu0&show_icons=true)
 
-💖 Support my projects
+### 💖 ### Support my projects <br>
 I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously, this takes time. You can use this service for free.
 
 However, if you are using my project and happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
 
 Giving proper credit when you use any of my Repo on your readme, linking back to it :D
 Starring and sharing the project 🚀
+
 Thanks! ❤️
 
 
