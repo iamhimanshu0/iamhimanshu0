@@ -15,9 +15,7 @@ I'm Himanshu Tripathi Machine Learning || Data Science || Deep Learning || Andro
 - 👯 Looking for an internship or opportunity.
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhimanshu0)
-### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=iamhimanshu0&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhimanshu0) ![Github stats](https://github-readme-stats.vercel.app/api?username=iamhimanshu0&show_icons=true)
 
 ### 💖 ### Support my projects <br>
 I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously, this takes time. You can use this service for free.
