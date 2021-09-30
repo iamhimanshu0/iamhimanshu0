@@ -12,7 +12,7 @@ I'm Himanshu Tripathi Machine Learning || Data Science || Deep Learning || Andro
 - ⚡️ Technologies I work with: PYTHON, DATA SCIENCE, DEEP LEAERNING, MACHINE LEARNING, C++, NLP, SPACY, JAVASCRIPT, DJANGO, FLASK, FLUTTER, ANDROID STUDIO, TENSORFLOW, SKLEARN, PANDAS, ETC..
 - 👨‍💻 All of my projects are available 👉  [here](https://github.com/iamhimanshu0?tab=repositories)
 - 🙌 Check out My YouTube videos 👉 [here](https://www.youtube.com/c/himanshutripathi)
-- 👯 Looking for an internship or opportunity.
+- 👯 Looking for an opportunity.
 
 ### My GitHub Status 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhimanshu0) ![Github stats](https://github-readme-stats.vercel.app/api?username=iamhimanshu0&show_icons=true)
