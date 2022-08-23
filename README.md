@@ -14,7 +14,6 @@ I'm Himanshu Tripathi Machine Learning || Data Science || Deep Learning || Andro
 
 ### My GitHub Status 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhimanshu0) ![Github stats](https://github-readme-stats.vercel.app/api?username=iamhimanshu0&show_icons=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhimanshu0&" alt="iamhimanshu0" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhimanshu0&row=1&column=6" alt="iamhimanshu0" /></a> </p>
 
