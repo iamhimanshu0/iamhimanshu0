@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Himanshu Tripathi Machine Learning || Data Science || Deep Learning || Android Developer(UI),|| Full Stack Web Developer || and always willing to learn and work across new technologies and domains. <br/> <br/>
+I'm Himanshu Tripathi 
+I love to work on Machine Learning || Data Science || Deep Learning || Android Developer(UI),|| Full Stack Web Developer || and always willing to learn and work across new technologies and domains. <br/> <br/>
 [![youtube badge](https://img.shields.io/badge/youtube-HimanshuTripathi-%23FF0000?style=flat&logo=youtube)](https://www.youtube.com/c/himanshutripathi)
 [![twitter badge](https://img.shields.io/badge/twitter-@iam_himanshu0-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iam_himanshu0)
 [![dev.to badge](https://img.shields.io/badge/linkedin-iamhimanshu0-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamhimanshu0)
